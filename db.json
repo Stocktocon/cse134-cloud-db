@@ -1,5 +1,5 @@
 {
-    "posts":[
+    "projects":[
         {
             "title": "Temp Card",
             "image": "/imgs/cable.jpg",
@@ -7,8 +7,5 @@
             "description": "Starting details on the project",
             "link": "/projects/cables.html"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
