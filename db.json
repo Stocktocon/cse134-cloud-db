@@ -1,0 +1,14 @@
+{
+    "posts":[
+        {
+            "title": "Temp Card",
+            "image": "/imgs/cable.jpg",
+            "imagesm": "/imgs/cable_sm.jpg",
+            "description": "Starting details on the project",
+            "link": "/projects/cables.html"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
