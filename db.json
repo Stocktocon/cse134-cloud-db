@@ -13,6 +13,34 @@
             "imagesm": "https://docs.craftycontrol.com/img/favicon.ico",
             "description": "My first server where I learned a lot around network management and server mangement.",
             "link": "/projects/server.html"
+        },
+        {
+            "title": "Cybersecurity Certification for Research",
+            "image": "/imgs/noImgTako.png",
+            "imagesm": "/imgs/noImgTako.png",
+            "description": "The first project I worked on under the UCSD Cybersecurity Risk and Compliance team",
+            "link": "https://blink.ucsd.edu/technology/security/certification/index.html"
+        },
+        {
+            "title": "NIST 800-171 Compliance",
+            "image": "/imgs/noImgTako.png",
+            "imagesm": "/imgs/noImgTako.png",
+            "description": "Making NIST 800-171 Compliant Windows and MacOS systems.",
+            "link": "/portfolio/compliance.html"
+        },
+        {
+            "title": "Google Sheets Color Filter",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/640px-Google_Apps_Script.svg.png",
+            "imagesm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/640px-Google_Apps_Script.svg.png",
+            "description": "I got upset there's no filter for google sheets so I made one",
+            "link": "/portfolio/sheets_color_filter.html"
+        },
+        {
+            "title": "Benguin Source",
+            "image": "/imgs/beng.webp",
+            "imagesm": "/imgs/beng.webp",
+            "description": "The artist of the penguin at the top of my website is Sanpoimo",
+            "link": "https://x.com/sanpoimo?lang=en"
         }
     ]
 }
