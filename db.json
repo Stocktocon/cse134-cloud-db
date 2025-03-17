@@ -10,7 +10,7 @@
         {
             "title": "Personal Minecraft Server",
             "image": "http://gitlab.com/uploads/-/system/project/avatar/20430749/Crafty_4-0_Logo_square.ico",
-            "imagesm": "http://gitlab.com/uploads/-/system/project/avatar/20430749/Crafty_4-0_Logo_square.ico",
+            "imagesm": "https://docs.craftycontrol.com/img/favicon.ico",
             "description": "My first server where I learned a lot around network management and server mangement.",
             "link": "/projects/server.html"
         }
