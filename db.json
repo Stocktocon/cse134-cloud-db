@@ -1,11 +1,18 @@
 {
     "projects":[
         {
-            "title": "Temp Card",
+            "title": "Custom Keyboard Cables",
             "image": "/imgs/cable.jpg",
             "imagesm": "/imgs/cable_sm.jpg",
-            "description": "Starting details on the project",
+            "description": "We made some custom keyboard cables for the UCSD Keyboard Club.",
             "link": "/projects/cables.html"
+        }, 
+        {
+            "title": "Personal Minecraft Server",
+            "image": "http://gitlab.com/uploads/-/system/project/avatar/20430749/Crafty_4-0_Logo_square.ico",
+            "imagesm": "http://gitlab.com/uploads/-/system/project/avatar/20430749/Crafty_4-0_Logo_square.ico",
+            "description": "My first server where I learned a lot around network management and server mangement.",
+            "link": "/projects/server.html"
         }
     ]
 }
